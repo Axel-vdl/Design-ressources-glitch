@@ -1,0 +1,13 @@
+body {
+  background: url(https://cdn.glitch.com/4d4fcbee-0bd2-4ae7-ab04-77ac5b803fa3%2Ftic-tac-toe.png?1532330878170);
+}
+#titre1 {color:red;
+font-family: 'Liu Jian Mao Cao', cursive;}
+#paragraphe1 {color:black}
+#titre2 { color:blue;
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+#titre3 {color:black;
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+p {font-family: 'Indie Flower', cursive;}
